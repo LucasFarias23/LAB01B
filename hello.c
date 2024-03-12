@@ -5,5 +5,4 @@ int main() {
     return 0;
 }
 
-# helloworld# LAB01B# AB01
 # LAB01B
